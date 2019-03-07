@@ -1,0 +1,38 @@
+\documentclass[magyar,12pt,a4paper,oneside,draft]{report}
+\usepackage{graphicx}
+
+\usepackage[T1]{fontenc}
+\usepackage[magyar]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{verbatim}
+\usepackage{markdown}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage[justification=centering]{caption}
+\usepackage{url}
+\usepackage[nottoc,numbib]{tocbibind}
+\DeclareUnicodeCharacter{2212}{-}
+% heylyseglista tablazat miatt
+\usepackage{graphicx}
+\usepackage{lscape}
+\usepackage{natbib}
+\begin{document}
+
+\title{Budapest School pedagógia program}
+\author{}
+\date{2019. m\'arcius}
+\maketitle
+
+\tableofcontents
+\newpage
+
+\markdownInput{chapters/neveles.md}
+\markdownInput{chapters/helyi_tanterv.md}
+
+
+\bibliography{references.bib}{}
+\label{sec:bibliographyk}
+\bibliographystyle{apalike}
+
+\end{document}
