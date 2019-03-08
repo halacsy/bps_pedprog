@@ -95,10 +95,31 @@ VAN BENNÜK Közös
 
 
 
-## A kiemelt figyelmet igénylő tanulók
+## A kiemelt figyelmet igénylő gyerekek
+```
 A kiemelt figyelmet igénylő tanulókkal kapcsolatos pedagógiai tevékenység helyi rendje
 
 > (ez a korábbi szabályozás terminológiájával élve a következő tematikai egységeket foglalja magába: a beilleszkedési, magatartási nehézségekkel összefüggő; a tehetség, képesség kibontakoztatását és a szociális hátrányok enyhítését segítő tevékenységet és a tanulási kudarcnak kitett tanulók felzárkóztatását segítő programokat, így tehát a sajátos nevelési igényű és a hátrányos helyzetű tanulók integrációjának sajátos programelemei is idetartoznak pl. Officina Bona, IPR);    
+```
+TODO: max 20%
+TODO: mentor tudja, h mi a szitu
+
+A tanulásszervezők, modulvezetők feladata:
+
+* Megfelelő tanulásszervezési formákkal és módokkal biztosítani, hogy a tanórákon és a
+tanórán kívüli tevékenységben érvényesüljön a differenciált, az egyéniesített fejlesztés, eltérő
+képességekhez, viselkedéshez való alkalmazkodás.
+
+ * Olyan tanulási környezetet, speciális módszerek, tapasztalatszerzési lehetőség biztosítása,
+amelyben sokoldalú szemléltetéssel, cselekvéssel, gazdag feladattárral, speciális eszközök
+alkalmazásával valósul meg készség- és képességfejlesztés.
+ * A pedagógus a tanórai tevékenységek/foglalkozások tervezésébe építse be a pedagógiai
+diagnózisban szereplő javaslatokat.
+* A pedagógus a tananyag adaptálásánál, feldolgozásánál vegye figyelembe az egyes tanulók
+fejlettségi szintjét, a támogatás szükséges mértékét.
+* Az egyéni haladási ütem biztosítására egyéni fejlesztési és tanulási terv készítése,
+individuális módszerek, technikák alkalmazása.
+* A pedagógus működjön együtt a gyermek/tanuló fejlesztésében résztvevő szakemberekkel.
 
 
 ## A tanulók és az iskola szabályai
