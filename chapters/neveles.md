@@ -16,15 +16,84 @@ A teljeskörű egészségfejlesztéssel összefüggő feladatok
 ## A közösségfejlesztés
 
  A közösségfejlesztéssel, az iskola szereplőinek együttműködésével kapcsolatos feladatok
- 
+
  > csak a nevelési-oktatási tartalmak relevanciája vonatkozásában, mert egyébként SZMSZ-kompetencia)
- 
+
 ## A pedagógusok feladatai
+```
+a pedagógusok helyi intézményi feladatai, az osztályfőnöki munka tartalmát, az osztályfőnök feladatai
+```
 
- > a pedagógusok helyi intézményi feladatai, az osztályfőnöki munka tartalmát, az osztályfőnök feladatai
+A Budapest School kerettanterv háromféle tanárt, a tanulásszervező tanárt, a mentorttanárt és a modulvezetőtanárt különböztet meg.
+
+VAN BENNÜK Közös
+és mindent performanca review szerint adunk meg
 
 
- > mely tartalmazza az osztályfőnöki munka tartalmát, az osztályfőnök feladatait (nem munkaköri leírás kell, csak a pedagógiai tevékenységek tablója);
+
+### Érzelmi intelligencia (EQ) ninja
+
+ * Gyerekek pszichológiai biztonságérzetét megerősíti.
+ * Olyan visszajelzéseket ad, amelyek az erőfeszítésekre, a belefektetett energiára, munkára és a jövőbeni fejlődésre fókuszálnak (growth mindset), pozitív megerősítést alkalmaz, épít a gyerek erősségeire, és egyértelműen megfogalmazza, mit tehetne másként.
+ * Értő figyelemmel van jelen, kedves, nyitott és figyel a gyerekekre.
+
+#### SNI szakértő
+ * Jól tudja kezelni az egyéni bánásmódot, speciális nevelési igényű gyerekeket a csoportban.
+ * Akinek külső segítségre van szüksége, azoknak a szüleivel ezt proaktívan leegyezteti és menedzseli a folyamatot.
+
+#### Change agent
+ * Nehéz helyzeteken is könnyen továbblendül, vannak módszerei arra hogyan töltse magát és ezeket használja is.
+ * Azt keresi, mire lehet hatása, mit lehet eggyel jobban csinálni és ebben akciókat tesz.
+ * Megünnepli az előrelépéseket, közös sikereket.
+
+
+
+### Tanulásszervező
+
+#### Jó csapattag
+
+* Rendszeresen jelen van a tanári csapat megbeszélésein.
+* Elérhető telefonon vagy online a csapattal megállapodott kereteken belül.
+* Feladatokat vállal magára és azokat megbízhatóan, határidőre végrehajtja.
+*  Kooperatív és támogató a közös munkák, ötletelések, megbeszélések alatt, képviseli a saját nézőpontját, gondolatait érzéseit, miközben a csapat és a többiek igényeire is figyel.
+*  Kifejezi támogatását, ellenérveit és javaslatait a jobb megoldás érdekében.
+*  A visszajelzést keresi, a kritikát jól fogadja, és megfontolja, átgondolja a lehetséges változtatásokat.
+* Kollégák fejlődését segíti rendszeres visszajelzésekkel.
+
+#### BPS tag
+
+* Rendszeresen jelen van heti hétfőkön, havi szombatokon.
+* Részt vesz a mikroiskolájának és a Budapest Schoolnak az építésében.
+* Proaktívan alakít ki rendszereket, folyamatokat, és a legjobb gyakorlatokat megosztja BPS szinten.
+*  Közös témákban aktív, hozzászól, alakítja a véleményével és tudásával a BPS rendszerét.
+
+
+### Mentor
+
+ * Az első trimeszter alatt a mentor megismeri mentoráltját, személyiségjegyeit, képességeit, érdeklődését, motivációit. Megismeri a családot.
+ * Megállapodik a családdal a kapcsolattartás szabályaiban.
+ * Bevezeti a családot a Budapest School rendszerébe.
+ * Trimeszterenként a mentorált gyerekkel és szülőkkel egyetértésben kialakítja a mentorált gyerek tanulási céljait.
+ * Képviseli mentoráltját a többi tanár felé.
+ * Szülőkkel rendszeresen információt oszt meg, elérhető, asszertíven kommunikál, tiszta, mérhető megállapodásokat köt.
+
+ * Szülőkkel erős partneri kapcsolatot épít.
+
+ * Amikor a gyereknek külső fejlesztésre van szüksége, akkor a családot segíti a megfelelő fejlesztő felkeresésében, a külső fejlesztővel kapcsolatot tart és konzultál a mentoráltja haladásáról.
+ * Maximum kéthetente talalkozik mentoráltjával. Követi, tudja, hogy a gyerek hogy van iskolában, családban, életben.
+ * Mentorként nyomon követi, monitorozza mentoráltjai fejlődését  és szükség esetén továbblendíti, inspirálja őket.
+ * Mentor biztosítja, hogy a mentorát gyerek portfólió friss legyen.
+ * Rendszeresen reflektál a mentorált gyerekkel együtt annak tanulási céljaira, és haladásáa.
+ * Segíti a mentorált modulválasztását.
+ * Visszajelzés gyűjt és ad a mentorált gyerek fejlődésére.
+
+### Modulvezetők
+ * Izgalmas, érdekes foglalkozásokat tart, amire felkészül és amiben a  gyerekeket flowban tudja tartani.
+ * Amikor a gyerekek vele vannak, akkor figyelnek, fókuszálnak, koncentrálnak, dolgoznak, tanulnak.
+ * Kedvesen és határozottan vezeti a csoportot, figyel arra, hogy mindenkit bevonjon.
+
+
+
 
 ## A kiemelt figyelmet igénylő tanulók
 A kiemelt figyelmet igénylő tanulókkal kapcsolatos pedagógiai tevékenység helyi rendje
@@ -34,7 +103,7 @@ A kiemelt figyelmet igénylő tanulókkal kapcsolatos pedagógiai tevékenység 
 
 ## A tanulók és az iskola szabályai
 
-A tanulóknak az intézményi döntési folyamatban való részvételi jogának gyakorlásának rendje 
+A tanulóknak az intézményi döntési folyamatban való részvételi jogának gyakorlásának rendje
 
 ## Partneri kapcsolatok
 A szülő, a tanuló, a pedagógus és az intézmény partnerei kapcsolattartásának formái
@@ -47,7 +116,7 @@ A tanulmányok alatti vizsgák és az alkalmassági vizsga szabályai; az iskola
 
 > valamint középfokú iskola esetében a szóbeli felvételi vizsga követelményeit (javító, osztályozó, különbözeti vizsgák vizsgaszabályzata);
 
-## A felvétel és az átvétel 
+## A felvétel és az átvétel
 
 a felvétel és az átvétel - Nkt. keretei közötti - helyi szabályai
 
