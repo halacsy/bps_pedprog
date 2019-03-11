@@ -1,10 +1,11 @@
 # Az iskola nevelési programja
 
 ## Pedagógia alapelvek
-
+```
  > Az iskolában folyó nevelő-oktató munka pedagógiai alapelvei, értékei, céljai, feladatai, eszközei, eljárásai
 
 > kiemelt szerepet kell itt kapnia a keresztény világnézet és az emberi magatartás alapvető értékeinek, melyek az Nkt.-ban a köznevelés különös prioritásaiként jelennek meg
+```
 
 A Budapest School Általános Iskola és Gimnázium mikroiskoláinak legfőbb pedagógiai alapelve, hogy mindig ott, akkor és az történjen a gyerekekkel, ami őket a fejlődésükben a leginkább támogatja. Minden, ami az iskolában történik újra és újra erre az alapkérdésre kell, hogy visszatérjen. Az segíti a leginkább a gyerekek fejlődését, amit most csinálunk, vagy változtatnunk kell rajta? A Budapest School pedagógiája tehát rugalmas és integratív, a gyerekek fejlődéséhez igazodó. Abban támogatja a gyerekeket, hogy örömmel, harmóniában, mégis folyamatos kihívásokat keresve fejlődjenek, és így egészséges, boldog és a társadalom számára hasznos felnőttekké váljanak. A Budapest School tanulási célja ennek megfelelően, hogy a mikroiskoláiba járó gyerekek megtanuljanak saját erősségeiket fejlesztve egyéni célokat állítani és azokat később a mai világ adta lehetőségekhez és szükségletekhez igazítani.
 
