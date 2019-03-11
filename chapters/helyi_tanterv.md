@@ -56,10 +56,10 @@ A gyerekek trimeszterenként a mentortanáruk segítségével és a szüleikkel 
 
 Modulvezetők minden esetben maguk választják a modulhoz szükséges tankönyvek, szoftverek, weboldalak és egyéb eszközöket úgy, hogy
 
-  - az a megfelelő legyen annak a csoportnak, ahhoz a célhoz, amit el akar érni
-  - minden esetben legyen mindenki számára elérhető (esetek többségeben értsd ingyenes) megoldás
+  * az a megfelelő legyen annak a csoportnak, ahhoz a célhoz, amit el akar érni
+  * minden esetben legyen mindenki számára elérhető (esetek többségeben értsd ingyenes) megoldás
   
- Modulvezetők bátorítva vannak arra, hogy új dolgokat próbáljanak ki, és tapasztalataikat az iskola többi tanárával megosszák.
+Modulvezetők bátorítva vannak arra, hogy új dolgokat próbáljanak ki, és tapasztalataikat az iskola többi tanárával megosszák.
 
 
 ## NAT pedagógiai feladatok
@@ -67,19 +67,28 @@ Modulvezetők minden esetben maguk választják a modulhoz szükséges tankönyv
  > a Nemzeti alaptantervben meghatározott pedagógiai feladatok helyi megvalósításának részletes szabályai
 
 `EZT KI KELL KERESNI`
+`ide csak azt kell irni, h a tantargyak ezt elintezik`
 
 ## Mindennapos testnevelés
 
 > a mindennapos testnevelés, testmozgás megvalósításának módja, ha azt nem az Nkt. 27. § (11) bekezdésében* meghatározottak szerint szervezik meg, 
-
+Az iskola az Nkt. 27. § (11) bekezdésben meghatározottak szerint szervezi meg, hogy mindennap alkalma legyen a gyerekeknek a testnevelésre, testmozgásra. Mivel a Budapest School kerettanterv nem határoz meg külön testnevelés tantárgyat, így minden modul annak tekintendő, aminek célja a mozgás, az egészséges életmód és a Harmónia tantárgy témáját (is) feldolgozza.
 
 ## Válaszható érettségi tárgyak
 
  > középiskola esetén azon választható érettségi vizsgatárgyak megnevezése, amelyekből a középiskola tanulóinak közép- vagy emelt szintű érettségi vizsgára való felkészítését az iskola kötelezően vállalja, továbbá annak meghatározáse, hogy a tanulók milyen helyi tantervi követelmények teljesítése mellett melyik választható érettségi vizsgatárgyból tehetnek érettségi vizsgát, 
 
+
+Az iskola a kötelező középszintű érettségi vizsgatárgyakra való felkeszítést kötelezően vállalja érettségi felkészítő modulok szervezésével. (Más iskolákban ezt fakultációnak hívnák, de a Budapest School iskola nem különbözteti meg a fakultációt a tanórától.) A választható tantárgyak és az emeltszintű érettségi vizsgára csak akkor szervez egy mikroiskola modult, ha arra legalább a közösség 10%-a igényt tart.
+
+
+
 ## középszintű érettségi vizsga témakörei
 
  > középiskola esetén az egyes érettségi vizsgatárgyakból a középszintű érettségi vizsga témakörei
+
+``` EZ HP SZERINT LEHET HOGY NEM KELL ```
+
 
 ## Értékelés, minősítés 
 
@@ -87,6 +96,15 @@ Modulvezetők minden esetben maguk választják a modulhoz szükséges tankönyv
 
 ## A csoportbontások
 > a csoportbontások és az egyéb foglalkozások szervezésének elvei
+
+A Budapest School iskoláit mikroiskolák közösségeiből hozzuk létre. Így egy gyerek elsődleges csoportja a mikroiskolájának közzéssége, ami lehet 12 - 50 gyerek. Ezen belül modulonként eltér, hogy milyen csoportbontásban dolgoznak. Több szinje van a csoportmunkának.
+  1. A mikroiskola közössége heti rendszerességgel tarthat iskolagyűlést, fórumot, HOGY HIVJAK A BREZNOBAN?. Ilyenkor a mikro iskola közössége együtt van.
+  2. Modulokra kisebb csoportok jelentkezhetnek. Egy modul csoportjának rendező elve lehet, hogy 
+     1. egy képességszinten lévő gyerekek tanuljanak együtt;
+     2. vagy közös érdeklődés hozza össze a csoporttagokat;
+     3. van, hogy direkt a véletlenszerűségben van az érdekesség, mert keveredni akarunk;
+     4. kölcsönös szimpátia és vonzalom lehet a modultagok között: most azért vannak egy csoportban, mert egy csoportban akartak lenni.
+  3. Egy-egy foglalkozáson belül is sokszor csoportot alkotunk, az előző elvek alapján.
 
 ## Nemzetiségek megismerése
 > a nemzetiséghez nem tartozó tanulók részére a településen élő nemzetiség kultúrájának megismerését szolgáló tananyag, 
@@ -100,3 +118,6 @@ Modulvezetők minden esetben maguk választják a modulhoz szükséges tankönyv
 ## Jutalmazás és értékelés
 
  > a tanuló jutalmazásával összefüggő, a tanuló magatartásának, szorgalmának értékeléséhez, minősítéséhez kapcsolódó elvek
+
+## Önkéntes közösségi szolgálat
+Az Nkt 4. § (15) pontjában definiált közösségi szolgálat is modulként kerül meghírdetésre, amit 12. évét betöltött gyerek választhat csak. Közösségi szolgálatként elfogadható, ha a Budapest School iskola egy másik mikroiskolájában segít a gyerek.
