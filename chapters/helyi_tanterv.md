@@ -94,6 +94,41 @@ Az iskola a kötelező középszintű érettségi vizsgatárgyakra való felkesz
 
 > a tanuló tanulmányi munkájának írásban, szóban vagy gyakorlatban történő ellenőrzési és értékelési módját, diagnosztikus, szummatív, fejlesztő formáit, valamint a magatartás és szorgalom minősítésének elvei
 
+A Budapest School iskolában a felnőttek a gyerekek munkáját, erőfeszítését, részvételét a Budapest School kerettantervének 3.4 fejezetében leírt módon értékeli. Hasonlóan a gyerekek is folyamatosan értékelik a tanárok munkáját.
+
+Minden modul zárásakor a részvételt, a haladást, a fejlődést és az elért eredményeket is értekelik a gyerekek és tanárok. Trimeszter zárásakor a mentorok és mentorált gyerekek értekelik a trimeszter tanulási eredményeit, és hogy hogy van a gyerek az iskolában, a céljaival, a közösséggel.
+
+### Portfólió
+Minden projekt eredménye, minden visszajelzés, minden tudáspróba, szóval a gyerekek iskolai munkásságának az eredménye a _portfólióba_ kerül. A potfólió alapján megállapítható, hogy a gyerek mit csinált, amiből következtethetünk arra, hogy mit tud, milyen képességei, készségei, kompetenciái vannak.
+
+Portfólió fejlesztése, rendbentartása elsősorban a gyerekek feladata. A tanárok és szülők pedig elsődlegesen arra figyelnek, hogy a gyerekek megtanulják: nem elég valamit megcsinálni, megtanulni, fontos, hogy megtanuljuk megmutatni is magukat. 
+
+IDE EGY MONDAT: a mentorok meg azert felelosek, hogy a gyerekekek megcsinaljak.
+
+
+### Évfolyamok elismerése, a bizonyítvány
+Ahogy a Budapest School Kerettanterv 4.5 fejezete is meghatározza, a gyerekek mind a három tantárgyból más évfolyamszinten állhatnak. Trimeszterenként a gyerekek, szülők kérhetik, hogy a portfóliójuk alapján évfolyamszintet léphessenek egy vagy több tantárgyból. 
+
+Ennek első lépése, hogy a portfólióba bekerüljenek olyan elemek, amik bizonyítják, hogy a tantárgyi követelményeknek legalább a felét teljesítették. Ezután a gyerek build a case to level up. Fontos, hogy a teljes dokumentációnak digitálisan, online elérhetőnek kell lennie úgy, hogy távolról megítélhető legyen XXX
+
+
+### Osztályzatok, vizsga
+
+Ha iskolaváltás vagy továbbtanulás miatt a szülő vagy gyerek kéri, hogy
+gyereket félévkor és/vagy év végén osztályzattal minősítsük, és a portfólia értékelésünk alapján
+megajánlott osztályzatot nem fogadja el, a tanuló osztályozó vizsgát tehet. Ebben az esetben a szülő
+osztályozó vizsga iránti kérelmet nyújthat be az mentortanárnál
+írásban is megerősítve. A tanév alatt beadott írásbeli kérelem beadását követően az iskolának 20
+tanítási nap áll a rendelkezésére a vizsga megszervezésére. (Ez alatt a tanév elején a tanév rendjében
+kiírt tanítási napok értendőek. A tanév elején tanítási szünetnek kiírt napok nem számítanak tanítási
+napnak!) Amennyiben a szülő a nyári szünet ideje alatt kérelmezi az osztályozó vizsga megtartását,
+úgy azt legkésőbb június 30-ig jeleznie kell (írásban is). Az ilyen esetekben az osztályozó vizsga
+augusztus utolsó hetében kerül megtartásra.
+
+
+
+
+
 ## A csoportbontások
 > a csoportbontások és az egyéb foglalkozások szervezésének elvei
 
@@ -118,6 +153,22 @@ A Budapest School iskoláit mikroiskolák közösségeiből hozzuk létre. Így 
 ## Jutalmazás és értékelés
 
  > a tanuló jutalmazásával összefüggő, a tanuló magatartásának, szorgalmának értékeléséhez, minősítéséhez kapcsolódó elvek
+
+TODO: legyen growth mindsetet, praise the effort, ugy mint
+Ha adunk, akkor adjunk pozitív visszajelzést, fókuszáljunk arra, amit csinált a gyerek és nem arra, amit elért.
+
+ * Fantasztikus, ma egy nagy kihívást választottál!
+ * Bátran rizikót vállaltál!
+ * Nagyon jó! Tényleg sokat próbálgattad.
+ * Kitartóan csináltad, erre nagyon büszke vagyok!
+ * De jó, valami újat próbáltál ki ma!
+ * Köszönöm, hogy ma valakinek segítettél.
+ * Nagyon nagy öröm látni a haladásodat!
+ * Ne feledd, mindannyian tudunk a hibáinkból tanulni. Örüljünk annak, hogy ma valamit jobban tudunk, mint előtte.
+ * Wow, egy nehéz feladatot oldottál meg!
+ * Szép munka! Kipróbáltál egy másik módszert.
+
+
 
 ## Önkéntes közösségi szolgálat
 Az Nkt 4. § (15) pontjában definiált közösségi szolgálat is modulként kerül meghírdetésre, amit 12. évét betöltött gyerek választhat csak. Közösségi szolgálatként elfogadható, ha a Budapest School iskola egy másik mikroiskolájában segít a gyerek.

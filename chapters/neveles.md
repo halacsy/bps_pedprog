@@ -73,7 +73,126 @@ A tanulás délelőtti és délutáni idősávokra tagolódik, melynek pontos al
 A személyiségfejlesztéssel kapcsolatos pedagógiai feladatoksel kapcsolatos pedagógiai feladatok
 
 ## A teljeskörű egészségfejlesztés
-A teljeskörű egészségfejlesztéssel összefüggő feladatok
+
+### Definíció, cél
+
+Az egészségfejlesztés a WHO meghatározása szerint az a folyamat, ami képessé teszi az embereket arra, hogy saját egészségüket felügyeljék és javítsák. Az egészségnevelés pedig  változatos kommunikációs formákat használó, tudatosan létrehozott tanulási lehetőségek összessége, amely az egészséggel kapcsolatos tudást, ismereteket és életkészségeket bővíti az egyén és a környezetében élők egészségének előmozdítása érdekében. Budapest School Általános Iskola és Gimnázium (a továbbiakban e fejezetben BPS) ezen definíciót teszi magáévá a teljes körű egészségfejlesztési program összeállításakor és alkalmazásával.
+
+A teljes körű egészségfejlesztési program a BPS közösség életminőségének javítását szolgáló, a közösséghez tartozók közös akaratát összegző cselekvési program, melynek közvetlen és közvetett célja az életminőség, ezen keresztül az egészségi állapot javítása, olyan közösségi problémakezelési módszer, amely az érintettek aktív részvételére épít.
+
+A teljes körű egészségfejlesztés célja, hogy a BPS-ben eltöltött időben minden gyerek részesüljön a teljes testi-lelki jóllétét, egészségét megőrző és hatékonyan fejlesztő, a BPS mindennapjaiban rendszerszerűen működő egészségfejlesztő tevékenységekben.
+
+### Négy alapfeladat
+
+A teljes körű iskolai egészségfejlesztés az alábbi négy egészségfejlesztési alapfeladat rendszeres végzését jelenti - minden gyerekkel, a tanárok és a szülők, valamint a BPS partneri kapcsolati hálóban szereplők bevonásával:
+
+
+
+ *   egészséges táplálkozás megvalósítása (elsősorban megfelelő, magas minőségű, lehetőleg helyi alapanyagokat használó kiszállítóval való megállapodással; helyben főzés esetén az alapanyagok kiválasztásánál legyen elsődleges szempont)
+ *   mindennapi testmozgás minden gyereknek (változatos foglalkozásokkal, koncentráltan az egészség-javító elemekre, módszerekre, pl. tartásjavító torna, tánc, jóga)
+ *   a gyermekek érett személyiséggé válásának elősegítése személyközpontú pedagógiai módszerekkel és a művészetek személyiségfejlesztő hatékonyságú alkalmazásával (ének, tánc, rajz, mesemondás, népi játékok, stb.)
+ *   környezeti, médiatudatossági, fogyasztóvédelmi, balesetvédelmi egészségfejlesztési modulok, modulrészletek hatékony (azaz "bensővé váló") oktatása.
+
+### Az egészségfejlesztési ismeretek témakörei
+
+
+
+ *   Az egészség fogalma
+ *   Az egyén és az őt körülvevő közösség egészsége: felelősségünk
+ *   A környezet egészsége
+ *   Az egészséget befolyásoló tényezők
+ *   A jó egészségi állapot megőrzése
+ *   A betegség fogalma
+ *   Megelőzés
+ *   A táplálkozás és az egészség, betegség kapcsolata
+ *   A testmozgás és az egészség, betegség kapcsolata
+ *   Balesetek, baleset-megelőzés
+ *   A lelki egészség.
+ *   Önismeret, önértékelés, a másikat tiszteletben tartó kommunikáció módjai, ennek szerepe a másik önértékelésének segítésében
+ *   A két agyfélteke harmonikus fejlődése
+ *   Az érett, autonóm személyiség jellemzői
+ *   A társas kapcsolatok
+ *   A társadalom élete, a társadalmi együttélés normái
+ *   A gyermek fejlődését elősegítő viszonyulás a gyermekhez - családban, iskolában
+ *   A szenvedélybetegségek és megelőzésük (dohányzás, alkohol- és drogfogyasztás, játék-szenvedély, internet- és tv-függés)
+ *   Művészeti és sporttevékenységek lelki egészséget, egészséges személyiségfejlődést és tanulási eredményességet elősegítő hatásai
+ *   Médiatudatosság, a médiafogyasztás egészségvédő módja
+ *   Az idő és az egészség, bioritmus, időbeosztás
+ *   Tartós egészségkárosodással élő társakkal együttélés, a segítségre szorulók segítése
+ *   Önmagunk és egészségi állapotunk ismerete 
+ *   A személyes krízishelyzetek felismerése és kezelési stratégiák ismerete 
+ *   Az idővel való gazdálkodás szerepe 
+ *   A rizikóvállalás és határai 
+ *   A tanulási környezet alakítása 
+ *   A természethez való viszony, az egészséges környezet jelentősége 
+
+### Indikátorok
+
+A teljes körű iskolai egészségfejlesztés az alábbi részterületeken jelentkező hatások révén eredményezi a hatékonyság növekedését:
+
+
+
+ *   a tanulási eredményesség javítása
+ *   a társadalmi befogadás és esélyegyenlőség elősegítése
+ *   a társadalmi kapcsolatok javulása a kortársakkal, szülőkkel, tanárokkal
+ *   az önismeret és önbizalom javulása
+ *   az alkalmazkodókészség, a stresszkezelés, a problémamegoldás javulása
+ *   érett, autonóm személyiség kialakulása
+ *   a krónikus, nem fertőző megbetegedések (lelki betegségek, szív-érrendszeri, mozgásszervi és daganatos betegségek) elsődleges megelőzése
+
+### A program végrehajtása - elsősorban a Harmónia (fizikai, lelki jóllét és kapcsolódás a környezethez) tantárgy keretében
+
+A Budapest School tanulási koncepciójának középpontjában az egyén, mint a közösség jól funkcionáló, saját célokkal rendelkező tagja áll. Az iskolában való fejlődése során elsősorban azt tanulja, hogy miként tud specifikált saját célokat megfogalmazni, és hogyan tudja ezeket elérni. Ebben a folyamatban egy mentor segíti a munkáját az iskola kezdetétől a végéig. Ő figyel arra, hogy a gyerek fizikai és lelki biztonsága és fejlődése folyamatos legyen, és segíti azokban a helyzetekben, amikor biztonságérzete vagy stabilitása csökken.
+
+A közösségben jól funkcionáló egyén belső harmóniájához ez a tantárgy a következő fejlesztési területeket határozza meg: 
+
+ * Érzelmi és társas intelligencia 
+ * Önismeret és önbizalom 
+ * Konfliktuskezelés 
+ * Rugalmasság (reziliencia) 
+ * Kritikai gondolkodás 
+ * Közösségi szabályok alkotásában való részvétel és azok alkalmazása 
+ * Csapatmunka gyakorlati fejlesztése 
+ * Oldott játék 
+ * Egészséges testi fejlődés 
+ * Saját igényekhez képest megfelelő táplálkozás 
+ * A természettel való kapcsolódás 
+ * Épített falusi és városi környezetben való eligazodás 
+ * A technológia világában felhasználói szintű eligazodás és annak harmonikus alkalmazása 
+
+#### Közösségben, csapatban 
+
+A Budapest School egy közösségi iskola, ahol a közösség tagjai egymással és egymástól tanulnak. A közösségekhez való tartozáshoz, a csapatban való gondolkodáshoz, és a családban való működéshez szükséges képességeket leginkább úgy tudjuk fejleszteni, ha azt kezdetektől megéljük. A közösség belső szabályainak megalkotása és az azokhoz való kapcsolódás a tanulás folyamatosságának alapfeltétele. 
+
+#### Életképességek (life skills) 
+
+Szeretnénk, ha gyerekeink általában alkalmazkodóan (adaptívan) és pozitívan tudnának hozzáállni az élet kihívásaihoz, ha lelki és fizikai erősségük és rugalmasságuk (rezilienciájuk) megmaradna és fejlődne. A WHO a következőképpen definiálta (World Health Organization, 1999) az életképességeket:
+
+ * Döntéshozás, problémamegoldás 
+ * Kreatív gondolkodás 
+ * Kommunikáció és interperszonális képességek 
+ * Önismeret, empátia 
+ * Magabiztosság (asszertivitás) és higgadtság 
+ * Terhelhetőség és érzelmek kezelése, stressztűrés 
+
+#### Érzelmi intelligencia 
+
+Sokszor kiemeljük az érzelmi intelligenciát, kihangsúlyozva, hogy gyerekeinknek többet kell foglalkozniuk az érzelmek felismerésével, kontrollálásával és kifejezésével, mint szüleinknek kellett. 
+
+#### Szabad mozgás és séta 
+
+A különböző mozgásformák, sportok és a séta mindennapivá tétele természetes módon, a gyerekek saját igényei szerint kell hogy történjen. 
+
+#### Gyakorlatias, mindennapi képességek
+
+Ahhoz, hogy gyerekeink önállóan és hatékonyan tudják élni életüket, hogy a társakhoz való kapcsolódás ne függőség legyen, egy csomó praktikus mindennapi tudást el kell sajátítaniuk. A gyerekeknek folyamatosan fejleszteniük kell az élethez szükséges minden- napi tudást a levélszemét kezeléstől, a facebook profil tudatos használatán át, egészen a személyi költségvetés készítéséig. 
+
+#### Egészséges táplálkozás 
+
+Az egészséges táplálkozás tanulható viselkedésforma, melynek alapja nem csupán a megfelelő élelmiszerek kiválasztása, hanem azok élettani hatásainak megismerése, és az étkezési szokások alakítása is. 
+
+
+
 
 
 ## A közösségfejlesztés
