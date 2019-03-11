@@ -1,4 +1,4 @@
-\documentclass[magyar,12pt,a4paper,oneside,draft]{report}
+\documentclass[magyar,12pt,a4paper,draft]{report}
 \usepackage{graphicx}
 
 \usepackage[T1]{fontenc}
@@ -17,11 +17,22 @@
 \usepackage{graphicx}
 \usepackage{lscape}
 \usepackage{natbib}
+\pagestyle{headings}
+\usepackage{fancyhdr}
+\usepackage[yyyymmdd,hhmmss]{datetime}
+\pagestyle{fancy}
+
+\fancyhf{}
+\rhead{}
+\lhead{\leftmark}
+
+\rfoot{Compiled on \today\ at \currenttime}
+\cfoot{}
+\lfoot{}
 \begin{document}
 
 \title{Budapest School pedagógia program}
 \author{Budapest School általános iskola tanárai}
-\date{2019. m\'arcius}
 \maketitle
 
 \tableofcontents
