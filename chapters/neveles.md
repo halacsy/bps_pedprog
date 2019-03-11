@@ -69,6 +69,119 @@ A Budapest School tanulásszervezői partnerként, a tanulás folyamán segítő
 
 A tanulás délelőtti és délutáni idősávokra tagolódik, melynek pontos alakítása a gyerekek tanulási igényeitől, fejlettségi szintjétől és korosztályától is függ. A tanulási rend meghatározásáért a Budapest School mikroiskoláinak tanulásszervzezői felelnek. A reggeli beszélgetőkör minden iskola napinditásának alapeleme. Ez a tere annak, hogy a mikroiskolák tagjai megbeszélhessék közös ügyeiket. A reggeli kör után után a tanulás trimeszterenként újraszervezett módon tanulási modulokban történik, melynek során jut idő egyéni és csoportos, gyakorló, ismeretszerző és gyakorlatias foglalkozásokra is. Az egész napos iskola lehetőséget biztosít arra, hogy a tanulási egységek között legyen idő fellélegezni, és felkészülni az újabb modulokra, valamint arra is, hogy ha egy tanulási egység nagyobb magával ragadja a gyerekeket, akkor benne maradhassanak és annak megfelelően alakítsák újra az időrendjüket.
 
+## Kapcsolat a hazai és nemzetközi oktatási reformokkal
+ 
+A Budapest School programja a hazai és nemzetközi oktatási reformok kontextusában és a pszichológia, a szociálpszichológia, valamint a szervezetfejlesztés terén elvégzett kortárs kutatások tükrében válik könnyebben értelmezhetővé. 
+
+Magyarországról több iskolát is követendő példának tekintünk. Az alternatív iskolák hagyományát többek között a 90-es évektől a Rogers Személyközpontú Általános Iskola, a Lauder Javne Iskola, a Kincskereső Iskola és a Gyermekek Háza iskolák teremtették meg. A megújuló  középiskolák úttörője az Alternatív Közgazdasági Gimnázium és a Közgadasági Politechnikum voltak. Ezek az iskolák a személyközpontúság, a gyerekközpontúság hangsúlyozása mellett elkezdték a gyakorlatban alkalmazni a differenciálás,  a kooperetív technikák alkalmazását és egyes projektmódszertanokat. 
+Programunk kidolgozásában nagy szerepe volt annak, hogy ezek az iskolák olyan szemléletmódbéli alapokat  fektettek le,  amelyek mára alapelvárásként fogalmazdónak meg a szülők oldaláról az  iskolákkal szemben. 
+
+Gyakorlati tapasztalatokat a világ más részein is gyűjöttünk. A 21. Században a Budapest Schoolhoz hasonló kezdeményezések sorra indulnak a világban. Ezek egyes jegyei a Budapest School pedagógiai programjával összhangban vannak:
+
+A Wildflower School mikroiskolák hálózatát működteti kisebb üzlethelyiségekben. A Budapest Schoolhoz hasonlóan célja, hogy falakat romboljon a gyerekek és a világ között: a magántanulás és az intézményes tanulás, a tanár és a tudós szerepe, valamint az iskola és környezete közötti határok elmosása az egyik fő üzenete. https://wildflowerschools.org/
+
+A High Tech High iskoláiban a gyerekek elsősorban projektmódszertan alapján tanulnak. A tanulási jogokban való egyenlőség mellett az egyéni célokra szabott tanulás, a világ alakulásához kapcsolódó tartalmi elemek, valamint az együttműködés alapú tanulás is megjelenik pedagógiáukban a Budapest School által is alkalmazott jegyekből. https://www.hightechhigh.org/
+ 
+ 
+A School21 brit iskola a 21. századi képességek fejlészétését tűzte ki célul. Ennek jegyében a prezentációs, előadói skillek kiemelt jelentőségüek. Iskolájuk egyensúlyt akar teremteni a tudásbéli (akadémiai), a szívbéli (személyiség és jóllét) és a kézzel fogható (problémamegoldó, alkotó) között. A Budapest School iskoláinak hasonló módon célja, hogy a tanulás három rétegét, a tudást, a gondolkodást és az alkotást folyamatos harmóniában tartsa.
+https://www.school21.org.uk
+
+#### Elméleti háttér
+Az iskolák gyakrolatias tapasztalata mellett a Budapest School számos elméletet is kiemelten fontosnak tart.
+
+Ezek közül is oktatási programjának központjában Carol Dweck fejlődésközpontű szemlélete áll.
+E mellett nagy hangsúlyt fektetünk az alábbi elméletek gyakorlati alkalmazására is: 
+
+Reformpedagógiai irányzatok elméletei, különös tekintettel: 
+
+ * Motessori-pedagógia (Maria Montessori), 
+ * kritikai pedagógia (Paulo Freire) 
+ * élménypedagógia (John Dewey) 
+ * felfedeztető tanulás (Jerome Bruner) 
+ * projektmódszer (William Kilpatrick) 
+ * kooperatív tanulás (Spencer Kagan) 
+
+Pszichológia és szociálpszichológiai kutatások eredményei: 
+
+  * kognitív interakcionista tanuláselmélet (Jean Piaget)  
+  * személyközpontú pszichológia (Carl Rogers) 
+  * kommunikáció és konfliktuskezelés (Thomas Gordon) 
+  * erőszakmentes kommunikáció (Marshall Rosenberg) 
+  * pozitív pszichológia kutatási eredményei, különös tekintettel: flow-elmélet, kreativitás kutatások (Csíkszentmihályi Mihály) 
+  * érzelmi és társas intelligencia (Daniel Goleman) 
+  * fejlődésfókuszú szemlélet (Carol Dweck)
+
+
+
+## Kreatív feszültségek, resztoratív szemlélet
+
+Tudjuk, hogy a Budapest School szereplői, a gyerekek, tanárok, szülők, pedagógia program, kerettanterv, fenntartó között kialakul néha kialakulnak feszültségek és konfliktusok, mert különbözőek vagyunk, különbözőek az igényeink.
+
+Akkor is feszültség alakul ki, amikor valamilt szeretnénk elérni, de még nem tartunk ott. A gyerek még nem érte el korosztályában szokásos évfolyam szint elvárásait, tanár még nem teljes mértékben a pedagógia programban meghatározott módon segíti a tanulást, a szülő még nem tudja elég jól kifejezni igényét, vagy a mikroiskola még nem minden esetben tudja megszervezni a mindennapi testnevelést úgy, ahogy azt szeretnénk. Amikor eltérés van a vágyaink, víziónk, célunk és a realitás között, akkor kialaul az úgynevezett kreatív feszültség.
+
+A Budapest School a feszültségekre/konfliktusokra olyan lehetőségként tekint, amelyek együttműködésen alapuló megoldása építi a kapcsolatot, és segíti a fejlődést.
+
+A Budapest Schoolban feszültségnek, konfliktusnak hívunk minden vágy, ötlet, szándék, cél, viselkedés közötti különbséget, ami valamelyik félben negatív érzéseket kelt. Ebbe beletartozik az is, ha valaki nem azt és úgy csinálja, ahogy nekünk erre szükségünk van, vagy ha bármilyen okból nem érezzük magunkat biztonságban, vagy más univerzális emberei szükségletünk nem elégül ki.
+
+Feszültség alakulhat ki a gyerekek, szülők és tanárok között bármilyen relációban és adódhatnak egyéb, belső konfliktusok, nehézségek is akár a család, akár a Budapest School életében, amelyek kihathatnak a közösségi kapcsolatainkra.
+
+
+
+### A BPS konfliktuskezelés során irányadó általános elvek
+
+#### Tárgyalás 
+A Budapest School közösségének valamennyi tagja,  a tanárok, gyerekek, szülők, iskolát képviselő fenntartó vállalja: 
+
+  * A közösség mindennapjaival kapcsolatos konfliktusok esetén elsőként az abban érintett személynek jelez közvetlenül.  
+  * Személyes kritikát mindig privát csatornán fogalmazza meg először, ha kell, akkor segítő bevonásával. 
+  *  Vállaljuk, hogy bármelyik fél jelzése esetén lehetőséget biztosítunk arra, hogy a vitás kérdést megbeszélhessük közvetlenül, a folyamatban részt veszünk.
+  *  Szakítás, kilépés, lezárás előtt legalább három alkalommal megpróbál egyeztetni;
+  *   az egyeztetésre elegendő időt hagy, amely legalább 60 nap vagy – amennyiben több időre van szükség – a másik féllel megállapodott idő; 
+  * Teljes figyelemmel, nyitottsággal, a probléma megoldására fókuszálva igyekszik feloldani a konfliktust, és közösen megoldást találni a problémára.
+  
+Összefoglalva: ha problémánk van egymással, akkor azt megbeszéljük. Nem okozunk egymásnak meglepetést, mert vállaljuk, hogy rögtön elmondjuk egymásnak konfliktusainkat.
+
+#### Közvetítő bevonása 
+
+Ha úgy érezzük, hogy a személyes egyeztetés nem vezetett megoldásra, a tárgyalást külső segítség bevonásával folytatjuk. 
+
+#### Megoldás keresése 
+Ha a közvetlen egyeztetés, tárgyalás és közvetítő bevonása során sikerül valamilyen megoldást vagy a megoldáshoz vezető folyamatot egyeztetni, a felek ezt írásban rögzítik és meghatározzák azt az időtartamot is, amelyre szükség van ahhoz, hogy megtapasztalhassák, érezhessék, hogy van esély a feszültség, konfliktus megoldására.
+
+#### Egyeztetés sikertelen 
+Ha a felek között az egyeztetés sikertelen volt, vagy a megoldási javaslat nem működött, felek ezt írásban meg kell, hogy állapítsák. Erre azért van szükség, hogy egyetértés legyen abban közöttük, hogy értik, a másik fél sikertelennek érzi az egyeztetést.
+
+#### Lezárás 
+Az egyeztetés sikertelensége esetén elengedjük egymást. De ez a végső megoldás.
+
+### Gyerek-gyerek konfliktus
+TODO Csoti ORsi?
+
+
+### Gyerek-iskola, tanár-szülő konfliktus
+Minden gyereknek van egy mentora. A szülők számára a mentor az elsődleges kapocs az iskola felé. Ezért, ha a szülőben jelenik meg egy feszültség, akkor elsődlegeses a mentornak jelez. Ugyanígy, a mentor közvetíti a család felé a gyerekkel kapcsolat feszültségeket.
+
+Ha egy gyerek, vagy szülő úgy érzi, hogy egy gyereknek nem jó az iskolai élménye, például nem tanul eleget, vagy kiközösítik, vagy csak nem szeret bemenni, akkor feladata, hogy rögtön beszéljen a mentor tanárral.
+
+
+Előfordulhat, hogy a tanárok vagy az iskola úgy érzik, hogy egy gyereknek nem tesz jót a Budapest School közössége, vagy a hozzáállása súlyosan zavarja vagy sérti a Budapest School közösséget vagy azok tagjait. Az is lehet, hogy a tanárok vagy a Budapest School a szülővel való kapcsolatot érzik konfliktus vagy feszültség forrásának. Ilyen esetben ugyanígy le kell folytatni a konfliktuskezelés folyamatát és megpróbálni feloldani a feszültséget. Ennek sikertelensége esetén az iskola jelzi a családnak írásban, hogy el szeretne válni.
+
+
+
+
+### Tanár-tanár konfliktus
+TODO
+
+
+### Pedagógia program, kerettanterv be nem tartásával kapcsolatos konfliktusok
+Amikor egy tanár, egy gyerek vagy egy mikroiskola nem tartja be a kerettantervet, a pedagógia programot, a házirendet, vagy egyéb közösen megalkotott szabályokat, akkor konfliktus alakul ki közte és az iskola között. Ilyenkor szintén a konfliktuskezelés folyamatát kell lefolytatni.
+
+
+### Eszkalálás, mediálás
+Ha nem sikerül a személyes egyeztetés vagy megbeszélés a tanárokkal vagy az érintett szülővel, vagy már nem is hiszel benne, hogy a feszültséget így fel tudjátok oldani, akkor mindenképpen küldj egy jelzést Halácsy Péternek. Innen ő fog közvetíteni (mediálni) köztetek.
+
+
+
 ## A személyiségfejlesztés
 A személyiségfejlesztéssel kapcsolatos pedagógiai feladatoksel kapcsolatos pedagógiai feladatok
 

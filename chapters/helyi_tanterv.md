@@ -58,8 +58,12 @@ Modulvezetők minden esetben maguk választják a modulhoz szükséges tankönyv
 
   * az a megfelelő legyen annak a csoportnak, ahhoz a célhoz, amit el akar érni
   * minden esetben legyen mindenki számára elérhető (esetek többségeben értsd ingyenes) megoldás
-  
-Modulvezetők bátorítva vannak arra, hogy új dolgokat próbáljanak ki, és tapasztalataikat az iskola többi tanárával megosszák.
+  * modulvezetők bátorítva vannak arra, hogy új dolgokat próbáljanak ki, és tapasztalataikat az iskola többi tanárával megosszák.
+
+ Mivel a Budapest School kerettantervének értelmében az egyéni célok legalább 50%-át az  állami kerettantervben meghatározott fejlesztési célok közül kell választani, az ehhez szükséges ismeretek megszerzéséhez a Budapest School az Oktatási Hivatal általi jegyzékben államilag támogatott OFI által fejlesztett tankönyveket veszi alapul. A Budapest School tanárcsapatának lehetősége van arra, hogy ettől eltérő, a mindenkori  tankönyvjegyzékben szereplő tankönyvvel segítse el a kerettantervben meghatározott eredménycélok elérését. És arra is lehetősége van, hogy egyátalán ne használjon tankönyvet, mert sokszor az internet elegendő információt tartalmaz.
+ 
+
+  A Budapest School pedagógiai programjának alapja,  hogy a gyerekek egyéni céljaira szabott tanulási terveket készít. Ennek előfeltétele, hogy a könyvek használata is ehhez kapcsolódó módon rugalmasan történjen, minden esetben az adott tanulási modul igényeihez szabva. Ennek érdekében a program pedagógusai folyamatosam állítják össze a gyerekek eltérő céljaihoz és képességszintjeihez igazodó differenciált tevékenységek és feladatsorok rendszerét. 
 
 
 ## NAT pedagógiai feladatok
